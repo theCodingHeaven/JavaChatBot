@@ -6,4 +6,4 @@
 📍 [Link you YouTube](https://youtu.be/wbOzl4UirSY?si=1MtFL0AaX4R5KMr-)
 
 ### Learn More in This Article 
-https://thecodingheaven.com/posts/c-first-steps
+👀 [Blog Post](https://thecodingheaven.com/posts/c-first-steps)
